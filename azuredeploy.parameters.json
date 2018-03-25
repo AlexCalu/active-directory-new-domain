@@ -1,0 +1,21 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "topdomainadmin"
+    },
+    "adminPassword": {
+      "value": "HdL6>F_.7~N&Vhyx"
+    },
+    "domainName": {
+      "value": "topdomain.local"
+    },
+    "dnsPrefix": {
+      "value": "topdomain"
+    },
+    "_artifactsLocation": {
+      "value": "C:\\Users\\calale\\Desktop\\AzureRM\\active-directory-new-domain"
+    }    
+  }
+}
